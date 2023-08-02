@@ -109,6 +109,8 @@ var now = "Now is";
 var three = 3;
 var d = "D!";
 console.log(now + three + d);
+console.log(now + three + d);
+console.log(now + three + d);
 
 // Use the += operator to accumulate values in a variable
 var counter = 0;
