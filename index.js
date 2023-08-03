@@ -1,4 +1,4 @@
-/*console.log('Hello World');
+console.log('Hello World');
 
 var petDog = "Rex";
 var petCat = "Pepper";
@@ -14,7 +14,7 @@ console.log(`${petCat} says ${catSound}.`);
 
 catSound = "meow";
 console.log(`${petCat} now saye  ${catSound}.`);
-*/
+
 
 /* Arithmetic operators in javascript
     + Addition 
